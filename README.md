@@ -1,5 +1,7 @@
 # Drug Classification with Various ML Models
 
+![pexels-anna-shvets-3683081](https://github.com/anurashikvk/Drug-Classification-w-Various-ML-Models-/assets/134492695/48bbaad8-ff5d-4520-8da4-56d8b24b1486)
+
 ## Objectives 📌
 This notebook aims to:
 
